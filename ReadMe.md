@@ -1,4 +1,4 @@
-# Government Guidance Funds and Firm Total Factor Productivity: The Role of Administrative Hierarchy
+# Government Guidance Funds and Firm Total Factor Productivity: The Role of Administrative Hierarchy – Replication Package
 
 * Author: Ma Junhao
 * Email: lmm51315@163.com
